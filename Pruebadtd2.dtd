@@ -1,0 +1,18 @@
+
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Sun Aug 19 11:35:40 COT 2018 -->
+
+<!ELEMENT curso (titulo,unidad+)>
+
+
+<!ELEMENT titulo (#PCDATA)>
+
+
+<!ELEMENT unidad (lecciones)>
+<!ATTLIST unidad titulo CDATA #REQUIRED>
+
+<!ELEMENT lecciones (leccion+)>
+
+
+<!ELEMENT leccion (#PCDATA)>
+<!ATTLIST leccion titulo CDATA #REQUIRED>
+

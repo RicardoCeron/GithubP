@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE curso SYSTEM "Pruebadtd2.dtd">
+<curso>
+	<titulo>Introducción a XML España</titulo>
+	
+	<unidad titulo="UNIDAD - 1 - XML">
+		<lecciones>
+			<leccion titulo="Introducción">El contenido de la lección......</leccion>
+			<leccion titulo="Documento bien formado">El contenido de la lección......</leccion>
+			<leccion titulo="Ejemplo">El contenido de la lección"......</leccion>
+		</lecciones>
+	</unidad>
+	<unidad titulo="UNIDAD - 2 - XML">
+		<lecciones>
+			<leccion titulo="Uni 2">El contenido de la lección 2.....</leccion>
+		
+</lecciones>
+	</unidad>
+	<unidad titulo="UNIDAD - 3 - XML">
+		<lecciones>
+			<leccion titulo="Uni 3">El contenido de la lección 3.....</leccion>	
+</lecciones>
+	
+</unidad>
+</curso>
